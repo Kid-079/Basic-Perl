@@ -2,7 +2,7 @@
 
 # RUMUS : values %HASH
 
-%data = ('Paula Godzila' => 79, 'Margarita Kol' => 86, 'Tina Ketumbar' => 74);
+%data = ('Paula Godzila' => 79, 'Margarita' => 86, 'Tina Ketumbar' => 74);
 
 @nilai = values %data;
 
