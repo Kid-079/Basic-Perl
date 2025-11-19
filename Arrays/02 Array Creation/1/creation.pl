@@ -15,6 +15,6 @@ print "\$array1[0] = $array1[5]\n";
 #print "\$array2[0] = $array2[5]\n";
 #print "\$array2[0] = $array2[4]\n";
 #print "\$array2[0] = $array2[7]\n";
-#print "\$array2[0] = $array2[0]\n";
+#print "\$array2[0] = $array2[2]\n";
 #print "\$array2[0] = $array2[6]\n";
 
