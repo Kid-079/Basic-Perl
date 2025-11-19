@@ -9,3 +9,8 @@ print "\$kata{'hello'} = $kata{'hello'}\n";
 print "\$kata{'heLLo'} = $kata{'heLLo'}\n";
 print "\$kata{'HellO'} = $kata{'HellO'}\n";
 
+#print "\$kata{'Ornament'} = $kata{'Ornament'}\n";
+#print "\$kata{'Lonely'} = $kata{'Lonely'}\n";
+#print "\$kata{'Wise'} = $kata{'Wise'}\n";
+#print "\$kata{'Grizzly'} = $kata{'Grizzly'}\n";
+#print "\$kata{'Shoe'} = $kata{'Shoe'}\n";
