@@ -5,6 +5,8 @@
 # Define Strings 
 $var_string = "A-B-C-D-E";
 $var_names = "Kumar,Salaman,Anjeli,Damai";
+#$var_names = "Vampire,Dracula,Avatar,Wicked,Ghost";
+
 
 
 # Transform Above Strings intp Array
