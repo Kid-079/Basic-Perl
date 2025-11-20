@@ -7,6 +7,3 @@
 
 # print "$name is - $status\n";
 
-
-# CATATAN :
-# - Pelajari Terlebih Dahulu
