@@ -6,8 +6,8 @@ $emoticon3 = v128577;
 $emoticon4 = v128549;
 $emoticon5 = v128533;
 
-$text1 = v84.82.69.66.76.69;
-$text2 = v80.65.80.69.82.66.79.89;
+$text1 = v114.67.115.69.102.79;
+$text2 = v111.89.80.65.98.112.82.101;
 
 
 print "emoticon = $emoticon1\n";
