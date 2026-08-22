@@ -1,9 +1,9 @@
 #!/usr/bin/perl
 
 # Create a simple Array
-@nama = ("hello","Hello","HELLO");
+@nama = ("GARDEN","fairy","Spark","knight","Coboy");
 print "1. \@Nama = @nama\n";
 
 # Add one Element at the beginning of the array
-unshift(@nama, "heLLo");
+unshift(@nama, "falcon");
 print "2. \@Nama = @nama\n";
