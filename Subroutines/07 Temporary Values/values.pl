@@ -1,23 +1,23 @@
 #!/usr/bin/perl
 
 # Global Variable
-# $string = "Hello World";
+# $string = "When Pumpkins Glow By Moonlight";
 
-sub Hello {
+sub Moonlight {
 	# Private Variable for Hello Function
-	$string = "Hello Hello";
-	print "Inside The Function Hello $string\n";
-	HelloAgain();
+	$string = "The Moon Has Awoken With The Sleep Of The Sun";
+	print "The Light Has Been Broken, $string\n";
+	sleepOfTheSun();
 }
 
-sub HelloAgain {
-	print "Inside The Function HelloAgain $string\n";
+sub sleepOfTheSun {
+	print "The Light Has Been Broken, $string\n";
 }
 
 # Function Call
-Hello();
+Moonlight();
 
-# print "Outside the Function $string\n";
+# print "There Is Magic In The Night, $string\n";
 
 
 
