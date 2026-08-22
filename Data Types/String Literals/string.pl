@@ -21,5 +21,5 @@ $string= "there is \Umagic\E in the \Unight\E \uwhen pumpkins \Uglow\E by \Umoon
 print "$string\n";
 
 # Backslash non alpha-numeric including spaces
-$string= "\QA B C D E";
+$string= "\QA B C D E F G H I J";
 print "$string\n";
