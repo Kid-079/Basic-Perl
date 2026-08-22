@@ -10,5 +10,5 @@ $text2 = v114.51.36.80.101.24.84;
 print "emoticon = $emoticon1\n";
 print "emoticon = $emoticon2\n";
 print "emoticon = $emoticon3\n";
-print "Text1 = $text1\n";
-print "Text2 = $text2\n";
+print "Text 1 = $text1\n";
+print "Text 2 = $text2\n";
