@@ -9,7 +9,6 @@ $emoticon5 = v128585.32.128584.32.128586;
 $text1 = v66.82.115.104.117;
 $text2 = v122.65.100.82.104.97;
 
-
 print "emoticon = $emoticon1\n";
 print "emoticon = $emoticon2\n";
 print "emoticon = $emoticon3\n";
