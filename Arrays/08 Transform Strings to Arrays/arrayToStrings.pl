@@ -3,8 +3,9 @@
 # RUMUS join EXPR, LIST
 
 # Define Strings 
-$var_string = "A-B-C-D-E";
-$var_names = "Kumar,Salaman,Anjeli,Damai";
+$var_string = "A-B-C-D-E-F-G";
+$var_names = "Fairy,Knight,Falcon,Coboy,Beast"
+#$var_names = "Kumar,Salaman,Anjeli,Damai";
 #$var_names = "Vampire,Dracula,Avatar,Wicked,Ghost";
 
 
