@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 
 # Global Variable
-$string = "Hello World.!!";
+$string = "The Moon Has Awoken With The Sleep Of The Sun";
 
 # Function Call
-print "Outside The Function $string\n";
+print "The Light Has Been Broken, $string\n";
 
