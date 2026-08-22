@@ -1,9 +1,9 @@
 #!/usr/bin/perl
 
 # Create a simple Array
-@nama = ("hello","Hello","HELLO");
+@nama = ("Fairy","GARDEN","spark","Fairy","Coboy");
 print "1. \@Nama = @nama\n";
 
 # Add one Element at the end of the array
-push(@nama, "heLLo");
+push(@nama, "Knight");
 print "2. \@Nama = @nama\n";
