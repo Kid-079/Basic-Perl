@@ -3,7 +3,7 @@
 # $a = "";
 
 # if($a) {
-# 	print "A Bernilai True\n";
+# 	print "Condition True\n";
 # }
 
-# print "Nilai dari A adalah $a\n";
+# print "Value : $a\n";
