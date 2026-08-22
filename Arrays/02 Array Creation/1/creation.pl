@@ -6,10 +6,10 @@
 @array4 = qw/There Is Magic In The Night, When Pumpkins Glow By Moonlight/;
 
 
-print "\$array1[0] = $array2[2]\n";
-print "\$array1[0] = $array2[4]\n";
-print "\$array1[0] = $array2[3]\n";
-print "\$array1[0] = $array2[5]\n";
+print "\$array1[0] = $array1[2]\n";
+print "\$array1[0] = $array1[4]\n";
+print "\$array1[0] = $array1[3]\n";
+print "\$array1[0] = $array1[5]\n";
 
 #print "\$array2[0] = $array2[2]\n";
 #print "\$array2[0] = $array2[4]\n";
