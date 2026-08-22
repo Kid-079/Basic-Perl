@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-%kata = ('Hello', 110, 'HELLO', 97, 'hello', 109,'heLLo',  101, 'HellO', 84);
+%kata = ('Knight', 38, 'Tinkle', 69, 'Coboy', 52, 'Falcon', 83, 'Spark', 43 );
 #%kata = ('Ornament', 101, 'Lonely', 89, 'Wise', 104,'Grizzly',  111, 'Shoe', 78);
 
 print "\$kata{'Hello'} = $kata{'Hello'}\n";
