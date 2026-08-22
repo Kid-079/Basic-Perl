@@ -2,7 +2,7 @@
 
 @array1 = (1, 2, 'Kumar', 'Salaman', 'Anjeli', 'Damai');
 #@array2 = (1, 2, 3, 4, 5, 'Vampire', 'Dracule', 'Wicked', 'Ghost');
-@array3 = qw/Ini adalah Sebuah Array/;
+@array3 = qw/There Is Magic In The Night, When Pumpkins Glow By Moonlight/;
 
 print "\$array1[0] = $array1[2]\n";
 print "\$array1[0] = $array1[4]\n";
