@@ -14,5 +14,5 @@ print "emoticon = $emoticon2\n";
 print "emoticon = $emoticon3\n";
 print "emoticon = $emoticon4\n";
 print "emoticon = $emoticon5\n";
-print "Teks 1 = $text1\n";
-print "Teks 2 = $text2\n";
+print "Text 1 = $text1\n";
+print "Text 2 = $text2\n";
