@@ -9,7 +9,7 @@ $size = @keys;
 print "1 - Hash Size: is $size\n";
 
 # Adding an Element to the Hash;
-$data{'Phantom'} = 33;
+$data{'Fighter'} = 33;
 #$data{'E'} = 72;
 @keys = keys %data;
 $size = @keys;
@@ -17,7 +17,7 @@ print "2 - Hash Size: is $size\n";
 
 
 # Delete The Same Element from the Hash
-delete $data{'Phantom'};
+delete $data{'Fighter'};
 #delete $data{'E'};
 @keys = keys %data;
 $size = @keys;
