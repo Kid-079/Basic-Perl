@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 
-@num = (1, 2, 3);
+@num = (1, 2, 3, 4, 5);
 #@num = (1, 2, 3, 4, 5);
-@text = ("Hello", "hello", "HELLO");
+@text = ("Asterisk", "Baboon", "Beast", "Rumble", "Tinkle");
 #@vocab = ("Vampire", "Dracula", "Avatar", "Wicked", "Ghost");
 
 print "\$num[0] = $num[0]\n";
