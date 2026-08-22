@@ -26,8 +26,8 @@ Average(10,20,30,40,50);
 # Average = U1 + U2 + ...+ Un / Jumlah Data
 # 
 # Solusi Soal Diatas :
-# Dik : Nilai (10,20,30)
+# Dik : Nilai (10,20,30,40,50)
 # Dit : Nilai Rata-Rata(Average)?
 # Jawab : 
-# Average = 10 + 20 + 30 / 3
-#         = 20
+# Average = 10 + 20 + 30 + 40 + 50 / 5
+#         = 50
