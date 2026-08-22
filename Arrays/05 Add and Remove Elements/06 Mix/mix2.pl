@@ -1,12 +1,12 @@
 #!/usr/bin/perl
 
 # Create a simple Array
-@nama = ("hello","Hello","HELLO");
+@nama = ("Spark","fairy","Falcon","knight","Coboy");
 print "1. \@Nama = @nama\n";
 
 
 # Add one Element at the beginning of the array
-unshift(@nama, "heLLo");
+unshift(@nama, "BEAST");
 print "2. \@Nama = @nama\n";
 
 # Remove One Element From the last of the array
