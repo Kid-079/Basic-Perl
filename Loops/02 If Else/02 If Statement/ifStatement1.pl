@@ -3,7 +3,7 @@
 # $a = 10;
 
 # if($a < 20) {
-# 	print "Nilai A kurang dari 20\n";
+# 	print "Value < 20\n";
 # }
 
-# print "Nilai dari A adalah $a\n";
+# print "Value : $a\n";
