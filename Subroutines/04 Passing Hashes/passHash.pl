@@ -9,7 +9,7 @@ sub Hash {
 		print "$key : $value\n";
 	}
 }
-%hash = ('name' => 'Hello', 'age' => 20);
+%hash = ('vocab' => 'Respect', 'id' => 104971226582100);
 
 # Function call with hash parameter
 Hash(%hash);
