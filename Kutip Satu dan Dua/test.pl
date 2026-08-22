@@ -11,8 +11,6 @@ EOF
 print "$var\n";
 
 
-
-
 # Kutip Satu ==> Mencetak Nama dari Variabel
 $a = 10;
 $var = <<'EOF';
