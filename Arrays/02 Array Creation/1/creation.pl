@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-@array1 = (1, 2, 3, 4, 5, 'Rumble', 'Tinker', 'Asterisk', 'Baboon', 'Beast');
+@array1 = (1, 2, 3, 4, 5, 'Rumble', 'Tinkle', 'Asterisk', 'Baboon', 'Beast');
 #@array2 = (1, 2, 'Kumar', 'Salaman', 'Anjeli', 'Damai');
 #@array3 = (1, 2, 3, 4, 5, 'Vampire', 'Dracule', 'Wicked', 'Ghost');
 @array4 = qw/There Is Magic In The Night, When Pumpkins Glow By Moonlight/;
