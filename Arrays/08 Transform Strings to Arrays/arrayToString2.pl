@@ -6,8 +6,6 @@
 $var_string = "A-B-C-D-E-F-G";
 $var_names = "Porter,Flamboyan,Mistake,Tapioca,Eskimo";
 
-
-
 # Transform Above Strings intp Array
 @string = split('-', $var_string);
 @names = split(',', $var_names);
