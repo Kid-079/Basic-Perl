@@ -15,7 +15,7 @@ sub Average {
 }
 
 # Function Call
-Average(10,20,30);
+Average(10,20,30,40,50);
 
 
 # CATATAN :
