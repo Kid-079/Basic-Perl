@@ -1,7 +1,8 @@
 #!/usr/bin/perl
 
 print <<EOF;
-Ini adalah
-String
-Multiline
+There Is Magic 
+In The Night,
+When Pumpkins Glow 
+By Moonlight
 EOF
