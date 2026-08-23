@@ -1,11 +1,11 @@
 #!/usr/bin/perl
 
-$a = 10;
+$a = 50;
 
 # Kutip Dua
-print "Nilai dari A = $a\n";
+print "Value = $a\n";
 
 # Kutip Satu
-# print 'Nilai dari A = $a\n$';
+# print 'Value = $a\n$';
 # -----------------------------
-# Output = Nilai dari A = $a\n$
+# Output = Value = $a\n$
