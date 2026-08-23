@@ -1,9 +1,9 @@
 #!/usr/bin/perl
 
-@char = ('A','B','C','D','E');
+@vocab = ('Knight', 'Tinkle', 'Coboy', 'Falcon', 'Spark', 'Beast', 'Fairy', 'Baboon');
 
-@nama = @char;
-$size = @char;
+@data = @vocab;
+$size = @vocab;
 
-print "Ini adalah huruf : @nama\n";
-print "jumlah huruf : $size\n";
+print "Data  : @data\n";
+print "Size  : $size\n";
