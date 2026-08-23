@@ -5,11 +5,15 @@ use strict;
 
 # defines country => language hash
 
-my %languages = ( England => 'Inggris', France => 'Perancis', Spain => 'Spanyol', China => 'Cina');
+my %vocab = ( Knight => 'Never Give Up', Tinkle => 'The Beauty Of Life', Beast => 'We Are Warrior', Falcon => 'Stronger Than The Storm');
+#my %languages = ( England => 'Inggris', France => 'Perancis', Spain => 'Spanyol', China => 'Cina');
 
 # Add New Element
-$languages{'Italy'}  = 'Italia';
+$vocab{'Cowboy'}  = 'Talk Slowly, Think Quickly';
+#$languages{'Italy'}  = 'Italia';
 
-# get language 
-my $language = $languages{'Italy'};
-print($language, "\n");
+# get language
+my $vocab = $vocab{'Cowboy'};
+print($vocab, "\n");
+#my $language = $languages{'Italy'};
+#print($language, "\n");
