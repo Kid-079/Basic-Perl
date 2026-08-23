@@ -6,14 +6,14 @@ use strict;
 #1 - defines country => language hash
 #2 - defines vocabulary => vocabulary hash
 
-my %vocab = (Knight => 'Never Give Up', Tinkle => 'The Beauty Of Life', Beast => 'We Are Warrior', Falcon => 'Stronger Than The Storm', Cowboy => 'Talk Slowly, Think Quickly');
+my %vocab = (Knight => 'Never Give Up', Tinkle => 'The Beauty Of Life', Beast => 'We Are Warrior', Cowboy => 'Talk Slowly, Think Quickly');
 #my %language = ( England => 'Inggris', France => 'Perancis', Spain => 'Spanyol', China => 'Cina');
 
 # get data
-my $vocab1 = $language{'England'};
-my $vocab2 = $language{'France'};
-my $vocab3 = $language{'Spain'};
-my $vocab4 = $language{'China'};
+my $vocab1 = $language{'Knight'};
+my $vocab2 = $language{'Tinkle'};
+my $vocab3 = $language{'Beast'};
+my $vocab4 = $language{'Cowboy'};
 #my $language1 = $language{'England'};
 #my $language2 = $language{'France'};
 #my $language3 = $language{'Spain'};
@@ -31,7 +31,7 @@ print($vocab4, "\n");
 
 # Add New data
 $vocab{'Germany'} = 'Jerman';
-$vocab{'India'} = 'Pegal he.. Pegal he...';
+$vocab{'Falcon'} = 'Stronger Than The Storm';
 #$language{'Germany'} = 'Jerman';
 #$language{'India'} = 'Pegal he.. Pegal he...';
 
