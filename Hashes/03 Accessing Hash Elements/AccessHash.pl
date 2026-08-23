@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-%vocab = ('Knight' => 38, 'Tinkle' => 69, 'Coboy' => 52, 'Falcon' => 83, 'Spark' => 43);
+%vocab = ('Knight' => 38, 'Tinkle' => 69, 'Cowboy' => 52, 'Falcon' => 83, 'Spark' => 43);
 #%name = ('SamirCurcuma' => 65, 'Bombay' => 66, 'Royco' => 67);
 #%vocab = ('Shake' => 69, 'Gummy' => 112, 'Porter' => 116, 'Flamboyant' => 108, 'Mistake' => 109, 'Tapioca' => 79);
 
