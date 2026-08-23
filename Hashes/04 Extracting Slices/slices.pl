@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-%vocab = (-Knight => 52, -Tinkle => 83, -Coboy => 116, -Falcon => 27, -Spark => 50, -Beast => 33, -Fairy => 90, -Baboon => 60 )
+%vocab = (-Knight => 52, -Tinkle => 83, -Cowboy => 116, -Falcon => 27, -Spark => 50, -Beast => 33, -Fairy => 90, -Baboon => 60 )
 #%name = (-SamirCurcuma => 65, -Bombay => 66, -Royco => 67);
 #%vocab = (-Shake => 69, -Gummy => 112, -Porter => 116, -Flamboyant => 108, -Mistake => 109, -Tapioca => 79);
 
