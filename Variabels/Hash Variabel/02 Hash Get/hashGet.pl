@@ -5,7 +5,7 @@ use strict;
 
 # defines country => language hash
 
-my %languages = ( England => 'Inggris', France => 'Perancis', Spain => 'Spanyol', China => 'Cina');
+my %languages = (Knight => 'Never Give Up', Tinkle => 'The Beauty Of Life', Beast => 'We Are Warrior', Falcon => 'Stronger Than The Storm');
 
 # get language 
 my $language = $languages{'England'};
