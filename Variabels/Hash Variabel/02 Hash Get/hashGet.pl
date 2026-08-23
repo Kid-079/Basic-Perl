@@ -10,5 +10,5 @@ my %vocab = (Knight => 'Never Give Up', Tinkle => 'The Beauty Of Life', Beast =>
 #my %languages = ( England => 'Inggris', France => 'Perancis', Spain => 'Spanyol', China => 'Cina');
 
 # get data 
-my $vocab = $vocab{'England'};
+my $vocab = $vocab{'Beast'};
 print($vocab, "\n");
