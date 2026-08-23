@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 @id = (52, 83, 116, 27, 50, 33, 90, 60)
-@vocab ("Knight", "Tinkle", "Coboy", "Falcon", "Spark", "Beast", "Fairy", "Baboon")
+@vocab ("Knight", "Tinkle", "Cowboy", "Falcon", "Spark", "Beast", "Fairy", "Baboon")
 #@umur = (78, 90, 67, 73);
 #@nama = ("Kumar", "Kajol", "Sambal", "Pedas");
 
