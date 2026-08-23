@@ -36,12 +36,12 @@ $vocab{'Falcon'} = 'Stronger Than The Storm';
 #$language{'India'} = 'Pegal he.. Pegal he...';
 
 # Modify data
-$vocab{'Falcon'} = 'Hindustan';
+$vocab{'Falcon'} = 'Stay Strong And Keep Fighting';
 #$language{'India'} = 'Hindustan';
 
 # get new data
-my $vocab5 = $languages{'Germany'};
-my $vocab6 = $languages{'India'};
+my $vocab5 = $vocab{'Struggle'};
+my $vocab6 = $vocab{'Falcon'};
 #my $language5 = $language{'Germany'};
 #my $language6 = $language{'India'};
 
