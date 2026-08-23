@@ -2,7 +2,7 @@
 
 # RUMUS : values %HASH
 
-%data = ('Knight' => 52, 'Tinkle' => 83, 'Coboy' => 116, 'Falcon' => 27, 'Spark' => 50, 'Beast' => 33, 'Fairy' => 90, 'Baboon' => 60)
+%data = ('Knight' => 52, 'Tinkle' => 83, 'Cowboy' => 116, 'Falcon' => 27, 'Spark' => 50, 'Beast' => 33, 'Fairy' => 90, 'Baboon' => 60)
 #%data = ('Paula Godzila' => 79, 'Margarita' => 86, 'Tina Ketumbar' => 74);
 #%data = ('Vampire' => 121, 'Dracula' => 122, 'Avatar' => 74, 'Wicked' => 90, 'Ghost' => 65);
 
