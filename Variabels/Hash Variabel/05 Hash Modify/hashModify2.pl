@@ -30,13 +30,13 @@ print($vocab4, "\n");
 #print($language4, "\n");
 
 # Add New data
-$vocab{'Germany'} = 'Jerman';
+$vocab{'Struggle'} = 'Keep Struggle';
 $vocab{'Falcon'} = 'Stronger Than The Storm';
 #$language{'Germany'} = 'Jerman';
 #$language{'India'} = 'Pegal he.. Pegal he...';
 
 # Modify data
-$vocab{'India'} = 'Hindustan';
+$vocab{'Falcon'} = 'Hindustan';
 #$language{'India'} = 'Hindustan';
 
 # get new data
