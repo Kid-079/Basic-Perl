@@ -2,8 +2,8 @@
 
 @vocab = ('Knight', 'Tinkle', 'Coboy', 'Falcon', 'Spark', 'Beast', 'Fairy', 'Baboon');
 
-@data = @vocab;
-$size = @vocab;
+@data      = @vocab;
+$totalData = @vocab;
 
-print "Data  : @data\n";
-print "Size  : $size\n";
+print "Data        : @data\n";
+print "Total Data  : $totalData\n";
