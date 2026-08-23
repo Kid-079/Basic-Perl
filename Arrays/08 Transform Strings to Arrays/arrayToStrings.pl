@@ -4,7 +4,7 @@
 
 # Define Strings 
 $var_string = "A-B-C-D-E-F-G";
-$var_names = "Fairy,Knight,Falcon,Coboy,Beast"
+$var_names = "Fairy,Knight,Falcon,Cowboy,Beast"
 #$var_names = "Kumar,Salaman,Anjeli,Damai";
 #$var_names = "Vampire,Dracula,Avatar,Wicked,Ghost";
 
