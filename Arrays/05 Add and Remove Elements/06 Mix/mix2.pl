@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 # Create a simple Array
-@nama = ("Spark","fairy","Falcon","knight","Coboy");
+@nama = ("Spark","fairy","Falcon","knight","Cowboy");
 print "1. \@Nama = @nama\n";
 
 
