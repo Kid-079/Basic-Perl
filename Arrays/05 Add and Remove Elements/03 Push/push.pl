@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 # Create a simple Array
-@nama = ("Fairy","GARDEN","spark","Falcon","Coboy");
+@nama = ("Fairy","GARDEN","spark","Falcon","Cowboy");
 print "1. \@Nama = @nama\n";
 
 # Add one Element at the end of the array
