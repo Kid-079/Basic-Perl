@@ -1,13 +1,13 @@
 #!/usr/bin/perl
 
-$var = "Ini adalah String Scalar";
-$quote = 'Ini ditulis dengan menggunakan kutip satu - $var';
-$double = "Ini ditulis dengan menggunakan kutip dua - $var";
+$string = "There Is Magic In The Night, When Pumpkins Glow By Moonlight";
+$singleQuote = 'The Light Has Been Broken, The Moon Has Awoken With The Sleep Of The Sun - $string';
+$doubleQuote = "Voices Whisper In The Trees, Shadow Of A Thousand Years Rise Again - $string";
 
-$escape = "Ini adalah contoh penggunaan escape character TAB - \tThere Is Magic In The Night, When Pumpkins Glow By Moonlight";
+$escape = "There Is Magic In The Night, When Pumpkins Glow By Moonlight - \tThe Light Has Been Broken, The Moon Has Awoken With The Sleep Of The Sun";
 
-print "var = $var\n";
-print "Quote = $quote\n";
-print "Double = $double\n";
-print "Escape = $escape\n";
+print "String       = $string\n";
+print "Single Quote = $singleQuote\n";
+print "Double Quote = $doubleQuote\n";
+print "Escape       = $escape\n";
 
